@@ -1,5 +1,6 @@
 # Green Roots: AI Model
-![Alt text](https://github.com/soham2002/GreenRoots/blob/master/static/GRoots.png)
+![Alt text](https://github.com/soham2002/GreenRoots/blob/master/static/GRoots.png) 
+<br>
 [Visit Website](https://hackthonduo.github.io/GRWebsite/)
 ## Overview
 
